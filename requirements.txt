@@ -1,0 +1,7 @@
+package
+hydrabolt/discord.js
+beautify
+google
+moment
+chalk
+snekfetch
