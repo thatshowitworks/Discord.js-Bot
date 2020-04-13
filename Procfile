@@ -1,1 +1,1 @@
-worker: node core.js && npm install
+worker: npm start && node core.js
